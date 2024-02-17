@@ -1,0 +1,26 @@
+#green {
+    background-color: #00b894;
+}
+
+#red {
+    background-color: #d63031;
+}
+
+#blue {
+    background-color: #0984e3;
+}
+
+button {
+    border-radius: 15px;
+    width: 20vw;
+    height: 8vh;
+    margin: 5px;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    
+}
